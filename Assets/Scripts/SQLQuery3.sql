@@ -1,0 +1,6 @@
+SELECT TOP (1000) [channel_name]
+      ,[channel_id]
+      ,[total_subscribers]
+      ,[total_views]
+      ,[total_videos]
+  FROM [youtube_db].[dbo].[view_india_youtubers_2024]
