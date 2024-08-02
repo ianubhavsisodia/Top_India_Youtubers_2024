@@ -2,7 +2,7 @@
 
 ![excel-to-powerbi-animated-diagram](Assets/Images/data_pipline.gif)
 
-
+🧑‍💻⚙️ We are pulling data from Kaggle, exploring and analysing it in Excel, cleaning and testing it in SQL, and visualizing it in Power BI.
 
 
 # Table of contents 
@@ -50,3 +50,12 @@ To create a dashboard that provides insights into the top India YouTubers in 202
 - subscriber engagement metrics
 
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
+
+
+## User story 
+
+As the Head of Marketing, I want to use a dashboard that analyses YouTube channel data in the India . 
+
+The dashboard should allow me to identify the top performing channels based on metrics like subscriber base and average views. 
+
+With the information, I can make more informed decisions about which Youtubers are right to collaborate with, and therefore maximize how effective each marketing campaign is.
