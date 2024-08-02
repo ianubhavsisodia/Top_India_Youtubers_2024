@@ -1,8 +1,8 @@
-# Data Analysis : Excel to Power BI 💻
+# Data Analysis : Excel to Power BI 🧑‍💻
 
 ![Data-Pipeline-ETL](Assets/Images/data_pipeline.gif)
 
-🧑‍💻We are pulling data from Kaggle, exploring and analysing it in Excel, cleaning and testing it in SQL, and visualizing it in Power BI.
+📂We are pulling data from Kaggle, exploring and analysing it in Excel, cleaning and testing it in SQL, and visualizing it in Power BI.
 
 
 # Table of contents 
