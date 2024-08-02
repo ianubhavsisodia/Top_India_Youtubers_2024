@@ -1,6 +1,6 @@
 # Data Analysis Portfolio : Excel to Power BI
 
-![excel-to-powerbi-animated-diagram](ianubhavsisodia.github.io/Assets/Images/data_pipline.gif)
+![excel-to-powerbi-animated-diagram](Assets/Images/data_pipline.gif)
 
 
 
