@@ -1,6 +1,8 @@
-# Data Analysis : Excel to Power BI
+# Data Analysis : Excel to Power BI 💻
 
-🧑‍💻⚙️ We are pulling data from Kaggle, exploring and analysing it in Excel, cleaning and testing it in SQL, and visualizing it in Power BI.
+![Data-Pipeline-ETL](Assets/Images/data_pipeline.gif)
+
+🧑‍💻We are pulling data from Kaggle, exploring and analysing it in Excel, cleaning and testing it in SQL, and visualizing it in Power BI.
 
 
 # Table of contents 
@@ -337,7 +339,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](Assets/Images/dashboard.mp4)
+![GIF of Power BI Dashboard](Assets/Images/dashboard.gif)
 
 This shows the Top India Youtubers in 2024 so far. 
 
