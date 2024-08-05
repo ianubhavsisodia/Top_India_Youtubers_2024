@@ -414,3 +414,200 @@ RETURN viewsPerSubscriber
 ```
 
 
+# Analysis 
+
+## Findings
+
+- What did we find?
+
+For this analysis, we're going to focus on the questions below to get the information we need for our marketing client - 
+
+Here are the key questions we need to answer for our marketing client: 
+1. Who are the top 10 YouTubers with the most subscribers?
+2. Which 5 channels have uploaded the most videos?
+3. Which 5 channels have the most views?
+4. Which 5 channels have the highest average views per video?
+5. Which 5 channels have the highest views per subscriber ratio?
+6. Which 5 channels have the highest subscriber engagement rate per video uploaded?
+
+
+### 1. Who are the top 10 YouTubers with the most subscribers?
+
+| Rank | Channel Name         | Subscribers (M) |
+|------|----------------------|-----------------|
+| 1    | T-Series             | 270.00          |
+| 2    | SET India            | 175.00          |
+| 3    | Zee Music Company    | 109.00          |
+| 4    | Goldmines            | 98.60           |
+| 5    | Sony SAB             | 94.20           |
+| 6    | ChuChu TV            | 92.00           |
+| 7    | Zee TV               | 82.40           |
+| 8    | Colors TV            | 74.60           |
+| 9    | SHemaroo Filmi Gaane | 69.00           |
+| 10   | Tips Official        | 67.40           |
+
+
+### 2. Which 5 channels have uploaded the most videos?
+
+| Rank | Channel Name    | Videos Uploaded |
+|------|-----------------|-----------------|
+| 1    | ABP NEWS        | 3,93,419        |
+| 2    | Aaj Tak         | 3,78,103        |
+| 3    | IndiaTV         | 3,11,028        |
+| 4    | Zee News        | 1,81,988        |
+| 5    | Zee TV          | 1,80,488        |
+
+
+### 3. Which 5 channels have the most views?
+
+
+| Rank | Channel Name | Total Views (B) |
+|------|--------------|-----------------|
+| 1    | T-Series     | 262.00          |
+| 2    | SET India    | 167.00          |
+| 3    | Sony SAB     | 118.00          |
+| 4    | Zee TV       | 92.36           |
+| 5    | Colors TV    | 72.74           |
+
+
+### 4. Which 5 channels have the highest average views per video?
+
+| Rank | Channel Name       | Views per Video     |
+|------|-----------------   |-------------------- |
+| 1    | Sidhu Moose Wala   | 66574607.56         |
+| 2    | ChuChu TV          | 65000477.83         |
+| 3    | Infobells- Hindi   | 53538370.92         |
+| 4    | Fun For Kids TV    | 45619168.83         |
+| 5    | Shorts Break       | 45262322.39         |
+
+
+### 5. Which 5 channels have the highest views per subscriber ratio?
+
+| Rank | Channel Name       | Views per Subscriber        |
+|------|-----------------   |---------------------------- |
+| 1    | Zee5               | 1296.04                     |
+| 2    | Sony SAB           | 1252.65                     |
+| 3    | etvteluguindia     | 1232.56                     |
+| 2    | Zee TV             | 1120.92                     |
+| 3    | Mazhavil Manorama  | 1105.69                     |
+
+
+### 6. Which 5 channels have the highest subscriber engagement rate per video uploaded?
+
+| Rank | Channel Name      | Subscriber Engagement Rate  |
+|------|-------------------|---------------------------- |
+| 1    | CarryMinati       | 215577.89                   |
+| 2    | Sidhu Moose Wala  | 213793.11                   |
+| 3    | BB ki Vines       | 137500                      |
+| 2    | Desi Music Factory| 136693.55                   |
+| 3    | ChuChu TV         | 115577.89                   |
+
+
+
+### Notes
+
+For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels wuth the most 
+
+- subscribers
+- total views
+- videos uploaded
+
+
+## Validation 
+
+### 1. Youtubers with the most subscribers 
+
+#### Calculation breakdown
+
+Campaign idea = product placement 
+
+![Total_Subs_Analysis](Assets/Images/total_subs_analysis.png)
+
+![SQL_Total_Subs_Analysis](Assets/Images/sql_total_subs_analysis.png)
+
+Best option from category: T-Series
+
+
+### 2. Youtubers with the most videos uploaded
+
+### Calculation breakdown 
+
+Campaign idea = sponsored video series 
+
+![Total_Video_Analysis](Assets/Images/total_video_analysis.png)
+
+![SQL_Total_Video_Analysis](Assets/Images/sql_total_video_analysis.png)
+
+Best option from category: Zee TV
+
+
+### 3.  Youtubers with the most views 
+
+#### Calculation breakdown
+
+Campaign idea = Influencer marketing 
+
+![Total_Views_Analysis](Assets/Images/total_views_analysis.png)
+
+![SQL_Total_Views_Analysis](Assets/Images/sql_total_views_analysis.png)
+
+Best option from category: T-Series
+
+
+### 4.  Top-5 YouTubers (Considering all Metrics)
+
+#### Calculation breakdown
+
+Campaign idea = Influencer marketing / Sponsored Videos 
+
+![Top_5_Analysis](Assets/Images/top_5_analysis.png)
+
+![SQL_Top_5_Analysis](Assets/Images/sql_top_5_analysis.png)
+
+
+## Discovery
+
+- What did we learn?
+
+We discovered that 
+
+1.  T-Series, SET India & Zee Music Company are the channnels with the most subscribers in India
+2. ABP News, Aaj Tak, & IndiaTV are the channels with the most videos uploaded
+3. T-Series, SET India & Sony SAB are the channels with the most views
+4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music.
+
+
+## Recommendations 
+
+- What do you recommend based on the insights gathered?
+-  Since Channels like T-Series, Zee TV etc are company channels, Influencers, Content Creation and Singer channels are reccomended for the collaborations, the Top-5 YouTubers Analysis provides with such channels. 
+  
+1. T-Series is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in India, but being a music comapny and a brand itself we can try to collab with other YouTube channels with higher subscriber engagement ratios. (i.e, Sidhu Moose Wala, CarryMinati ect.)
+2. Sidhu Moose Wala is the best YouTuber to collaborate with if we're interested in maximizing reach, but collaborating with CarryMinati and BB ki Vines may be better long-term options considering the fact that they both have large subscriber bases.
+3. The top channels to form collaborations with are T-Series, Zee Tv, CarryMinati, BB ki Vines, Sidhu Moose Wala based on this analysis, because they attract the most engagement on their channels consistently.
+
+
+### Potential ROI 
+- What ROI do we expect if we take this course of action?
+
+1. Setting up a collaboration deal with Zee TV would make the client a net profit of $46,000 per video.
+2. An influencer marketing contract with Sidhu Moose Wala can see the client generate a net profit of $66,07,000.
+3. If we go with a product placement campaign with T-Series, this could  generate a net profit of $11,73,000. 
+
+
+### Action plan
+- What course of action should we take and why?
+
+Based on our analysis, we beieve the best channels to advance a long-term partnership deal with to promote the client's products are T-Series, Zee TV,
+CarryMinati, BB Ki Vines. 
+
+We'll have conversations with the marketing client to forecast what they also expect from this collaboration. Once we observe we're hitting the expected milestones, we'll advance with potential partnerships with TOP-5 channels in the future.   
+
+- What steps do we take to implement the recommended decisions effectively?
+
+1. Reach out to the teams behind each of these channels
+2. Negotiate contracts within the budgets allocated to each marketing campaign
+3. Kick off the campaigns and track each of their performances against the KPIs
+
+
+
